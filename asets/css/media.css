@@ -1,0 +1,11 @@
+@media screen and (max-width: 780px) {
+    .reloj {
+        height: 180px;
+        width: 450px;
+    }
+    
+    .reloj div {
+        height: 120px;
+        width: 100px;
+    }
+}
